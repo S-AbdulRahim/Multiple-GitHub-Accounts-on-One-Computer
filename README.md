@@ -8,10 +8,7 @@ A comprehensive guide to configure and use multiple GitHub accounts (personal an
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Quick Setup (Using Scripts)](#quick-setup-using-scripts)
-- [Manual Setup Instructions](#manual-setup-instructions)
 - [Verification](#verification)
-- [Troubleshooting](#troubleshooting)
-- [FAQ](#faq)
 
 ---
 
@@ -65,6 +62,16 @@ The fastest way to set up multiple GitHub accounts is using our automated script
 - **Work projects folder path** (e.g., `C:\Users\John\projects\work` or `~/projects/work`)
 
 ---
+
+## Verification
+
+After setup, verify everything is working correctly.
+
+### Test Personal Account Configuration
+     cd ~/projects/personal
+     git config user.name0
+     git config user.email
+     git config credential.namespace
 
 **Important Notes:**
 - Use forward slashes `/` even on Windows
