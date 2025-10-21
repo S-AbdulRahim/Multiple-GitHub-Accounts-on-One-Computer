@@ -41,8 +41,8 @@ The fastest way to set up multiple GitHub accounts is using our automated script
 
 1. Download `setup_multiple_github_accounts.bat`
 2. Double-click the file or run from Command Prompt:
-     setup_multiple_github_accounts.bat
-3. Follow the prompts to enter your information
+3.      setup_multiple_github_accounts.bat
+4. Follow the prompts to enter your information
 
 ### Linux / macOS
 
